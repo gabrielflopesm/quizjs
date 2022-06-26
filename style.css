@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+
+}
+
+h3{
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+h3:hover{
+    background-color: rgb(160, 160, 160);
+    cursor: pointer;
+
+}
+
+h3 span{
+    font-weight: bolder;
+
+}
